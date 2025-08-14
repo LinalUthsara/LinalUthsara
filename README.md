@@ -200,13 +200,13 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   <!--Avatar-->
   <div>
     <picture>
-      <img align="left" style="width: 30%; height: auto;" alt="Avatar" src="./avatar.gif">
+      <img align="left" style="width: 47%; height: auto;" alt="Avatar" src="./avatar.gif">
     </picture>
   </div>
   <!--About Me-->
   <div align="right">
     <h3 align="center">About Me</h3>
-    <div>
+    <div align="center">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Java%20Enthusiast;Code%20With%20Style;Problem%20Solver;Customer%20Oriented;Modern%20Aesthetics;Continuous%20Learner;Open%20To%20Feedback&font=Fira%20Code&center=true&width=500&height=50&color=1F6FEB&vCenter=true&size=22&pause=800">
     </div>
     <div align="center">
