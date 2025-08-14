@@ -20,7 +20,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   </picture>
 </a>
 
-##
+---
 
 <!--Name Tag-->
 <picture>
@@ -29,8 +29,9 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   <img align="center" alt="Name_LINAL" src="./name_light.jpg">
 </picture>
 
-##
+---
 
 <!--Skill Title Bar-->
-<h3>SKILLS | TECHNOLOGIES | PROGRAMMING LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS</h3>
+<h3>SKILLS &nbsp;|&nbsp; TECHNOLOGIES &nbsp;|&nbsp; PROGRAMMING LANGUAGES &nbsp;|&nbsp; FRAMEWORKS &nbsp;|&nbsp; LIBRARIES &nbsp;|&nbsp; TOOLS</h3>
 
+##
