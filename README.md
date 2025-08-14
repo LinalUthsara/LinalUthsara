@@ -219,13 +219,12 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <img alt="Profile Views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=LinalUthsara&label=👁%20Profile%20views&color=0e75b6&style=flat"  />
     </div>
     <div>
-      <h3 align="justify">Aspiring software engineer pursuing a BSc (Hons) in Software Engineering, with a solid foundation in computer science and proficiency in multiple programming languages. Skilled in software development methodologies, problem-solving, and analytical thinking, with experience in academic and personal projects.
+      <h3 align="justify">Aspiring software engineer pursuing a BSc (Hons) in Software Engineering, with a solid foundation in computer science and strong proficiency in multiple programming languages. Skilled in software development methodologies, problem-solving, and analytical thinking, with hands-on experience in academic and personal projects.
     </h3>
     </div>
   </div>
 </div>
 
 ---
-
   
 
