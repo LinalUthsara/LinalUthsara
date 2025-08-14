@@ -35,3 +35,21 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <h3 align= "center">SKILLS &nbsp;&nbsp;|&nbsp;&nbsp; TECHNOLOGIES &nbsp;&nbsp;|&nbsp;&nbsp; PROGRAMMING LANGUAGES &nbsp;&nbsp;|&nbsp;&nbsp; FRAMEWORKS &nbsp;&nbsp;|&nbsp;&nbsp; LIBRARIES &nbsp;&nbsp;|&nbsp;&nbsp; TOOLS</h3>
 
 ##
+
+<!--Skills-->
+
+<a href="https://www.java.com/" target="_blank">
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
+    <!-- Fallback -->
+    <img align="center" style="margin: 10px" 
+         src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" 
+         alt="Java-icon" height="45" title="Java"/>
+  </picture>
+</a>
+
