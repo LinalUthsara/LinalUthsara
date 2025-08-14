@@ -194,9 +194,37 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ---
 
-<!--Avatar-->
+<!--Avatar & About Me-->
 
-<picture>
-  <img align="left" style="width: 47%; height: auto; alt="Avatar" src="./avatar.gif">
-</picture>
+<div>
+  <!--Avatar-->
+  <div>
+    <picture>
+      <img align="left" style="width: 47%; height: auto;" alt="Avatar" src="./avatar.gif">
+    </picture>
+  </div>
+  <!--About Me-->
+  <div>
+    <h3 align="center">About Me</h3>
+    <div>
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Java%20Enthusiast;Code%20With%20Style;Problem%20Solver;Customer%20Oriented;Modern%20Aesthetics;Continuous%20Learner;Open%20To%20Feedback&font=Fira%20Code&center=true&width=500&height=50&color=1F6FEB&vCenter=true&size=22&pause=800">
+    </div>
+    <div align="center">
+      <a href="https://github.com/LinalUthsara?tab=followers">
+      <img alt="Followers" title="Followers on Github" src="https://custom-icon-badges.demolab.com/github/followers/LinalUthsara?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/LinalUthsara?tab=repositories&sort=stargazers">
+      <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LinalUthsara?color=FFB84D&style=flat&labelColor=FFA116&logo=star"/>
+    </a>
+    <img alt="Profile Views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=LinalUthsara&label=👁%20Profile%20views&color=0e75b6&style=flat"  />
+    </div>
+    <div>
+      <h3 align="justify">Aspiring software engineer pursuing a BSc (Hons) in Software Engineering, with a solid foundation in computer science and proficiency in multiple programming languages. Skilled in software development methodologies, problem-solving, and analytical thinking, with experience in academic and personal projects.
+    </h3>
+    </div>
+  </div>
+</div>
+
+
+  
 
