@@ -227,3 +227,52 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ---
 
+<!--GitHub Stats-->
+
+<div>
+  <div>
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=linaluthsara&show_icons=true&locale=en&custom_title=Linal's%20GitHub%20Stats&theme=algolia"media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=linaluthsara&show_icons=true&locale=en&custom_title=Linal's%20GitHub%20Stats&theme=vue"media="(prefers-color-scheme: light)"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=linaluthsara&show_icons=true&locale=en&custom_title=Linal's%20GitHub%20Stats&theme=vue" alt="Linal GitHub Stats" title="GitHub Stats" />
+    </picture>&nbsp;&nbsp;&nbsp;&nbsp;
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=linaluthsara&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=linaluthsara&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vue"media="(prefers-color-scheme: light)"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=linaluthsara&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vue" alt="Linal Top Langs" title="Top Languages" />
+    </picture>
+  </div>
+</div>
+
+---
+
+<div align="center">
+    <picture>
+      <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=linaluthsara&theme=algolia"media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=linaluthsara&theme=vue"media="(prefers-color-scheme: light)"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linaluthsara&theme=vue" alt="Linal Streak" title="Streak" />
+    </picture>
+</div>
+
+---
+
+<div align="center">
+    <picture>
+      <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=linaluthsara&theme=algolia&bg_color=0D1117&hide_border=true&custom_title=Linal's%20Contribution%20Graph&area=true&area_color=2e82ff&title_color=00aeff&color=ffffff&line=2e82ff&point=00aeff"media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=linaluthsara&theme=vue&bg_color=ffffff&hide_border=true&custom_title=Linal's%20Contribution%20Graph&area=true&area_color=41b883&title_color=41b883&line=41b883&point=7bd1aa"media="(prefers-color-scheme: light)"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=linaluthsara&theme=vue&bg_color=ffffff&hide_border=true&custom_title=Linal's%20Contribution%20Graph&area=true&area_color=41b883&title_color=41b883&line=41b883&point=7bd1aa" width="800" alt="Linal Contribution-graph" title="Contribution Graph" />
+    </picture>
+</div>
+
+---
+
+<div align="center">
+  <picture>
+      <source srcset="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=algolia"media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=vue"media="(prefers-color-scheme: light)"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=vue" alt="Linal Trophies" />
+    </picture>
+</div>
+
+---
+
