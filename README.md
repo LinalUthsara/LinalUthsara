@@ -32,6 +32,6 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ---
 
 <!--Skill Title Bar-->
-<h3>SKILLS &nbsp;|&nbsp; TECHNOLOGIES &nbsp;|&nbsp; PROGRAMMING LANGUAGES &nbsp;|&nbsp; FRAMEWORKS &nbsp;|&nbsp; LIBRARIES &nbsp;|&nbsp; TOOLS</h3>
+<h3>SKILLS &nbsp;&nbsp;|&nbsp;&nbsp; TECHNOLOGIES &nbsp;&nbsp;|&nbsp;&nbsp; PROGRAMMING LANGUAGES &nbsp;&nbsp;|&nbsp;&nbsp; FRAMEWORKS &nbsp;&nbsp;|&nbsp;&nbsp; LIBRARIES &nbsp;&nbsp;|&nbsp;&nbsp; TOOLS</h3>
 
 ##
