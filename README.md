@@ -4,7 +4,21 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ---
 
 <!--Latest Projects-->
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&#x26;repo=Synexis_Backend)](https://github.com/LinalUthsara/Synexis_Backend) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&#x26;repo=Lumina)](https://github.com/VinilaDeveen/Lumina)
+<a href="https://github.com/LinalUthsara/Synexis_Backend">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=default">
+    <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=default">
+  </picture>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/LinalUthsara/Synexis_Backend">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=default">
+    <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=default">
+  </picture>
+</a>
 
 ##
 
@@ -14,3 +28,6 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   <source media="(prefers-color-scheme: light)" srcset="./name_light.jpg">
   <img align="center" alt="Name_LINAL" src="./name_light.jpg">
 </picture>
+
+
+
