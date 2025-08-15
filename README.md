@@ -340,13 +340,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   <source srcset="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer"media="(prefers-color-scheme: light)"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer"/>
 </picture>
-<p align="left">
-<a href="https://linkedin.com/in/linaluthsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linaluthsara" height="30" width="40" /></a>
-<a href="https://fb.com/linaluthsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="linaluthsara" height="30" width="40" /></a>
-<a href="https://instagram.com/linaluthsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linaluthsara" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/linaluthsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="linaluthsara" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/linaluthsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="linaluthsara" height="30" width="40" /></a>
-</p>
+
 
 
 
