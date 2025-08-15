@@ -58,7 +58,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java-icon" height="45" title="Java"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java-icon" height="45" title="Java"/>
     </picture>
   </a>
 
@@ -66,7 +66,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="Spring-icon" height="45" title="Spring"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="Spring-icon" height="45" title="Spring"/>
     </picture>
   </a>
 
@@ -74,7 +74,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="Github-icon" height="45" title="Github"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="Github-icon" height="45" title="Github"/>
     </picture>
   </a>
 
@@ -82,7 +82,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git-icon" height="45" title="Git"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git-icon" height="45" title="Git"/>
     </picture>
   </a>
   
@@ -90,7 +90,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript-icon" height="45" title="JavaScript"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript-icon" height="45" title="JavaScript"/>
     </picture>
   </a>
 
@@ -98,7 +98,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React-icon" height="45" title="React"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React-icon" height="45" title="React"/>
     </picture>
   </a>
 
@@ -106,7 +106,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python-icon" height="45" title="Python"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python-icon" height="45" title="Python"/>
     </picture>
   </a>
 
@@ -114,7 +114,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML-icon" height="45" title="HTML"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML-icon" height="45" title="HTML"/>
     </picture>
   </a>
 
@@ -122,7 +122,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS-icon" height="45" title="CSS"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS-icon" height="45" title="CSS"/>
     </picture>
   </a>
 
@@ -130,7 +130,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" alt="Vite-icon" height="45" title="Vite"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" alt="Vite-icon" height="45" title="Vite"/>
     </picture>
   </a>
 
@@ -138,7 +138,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap-icon" height="45" title="Bootstrap"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap-icon" height="45" title="Bootstrap"/>
     </picture>
   </a>
 
@@ -146,7 +146,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="TailwindCSS-icon" height="45" title="TailwindCSS"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="TailwindCSS-icon" height="45" title="TailwindCSS"/>
     </picture>
   </a>
   
@@ -154,7 +154,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="VSCode-icon" height="45" title="VSCode"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="VSCode-icon" height="45" title="VSCode"/>
     </picture>
   </a>
 
@@ -162,7 +162,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL-icon" height="45" title="MySQL"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL-icon" height="45" title="MySQL"/>
     </picture>
   </a>
 
@@ -170,7 +170,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman-icon" height="45" title="Postman"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman-icon" height="45" title="Postman"/>
     </picture>
   </a>
 
@@ -178,7 +178,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma-icon" height="45" title="Figma"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma-icon" height="45" title="Figma"/>
     </picture>
   </a>
 
@@ -186,7 +186,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" alt="VisualStudio-icon" height="45" title="VisualStudio"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" alt="VisualStudio-icon" height="45" title="VisualStudio"/>
     </picture>
   </a>
 
@@ -194,7 +194,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg">
-      <img align="center" style="margin: 10px; height: 50px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg" alt="Npm-icon" height="45" title="Npm"/>
+      <img align="center" style="margin: 10px; height: 40px; width: auto;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg" alt="Npm-icon" height="45" title="Npm"/>
     </picture>
   </a>
   
