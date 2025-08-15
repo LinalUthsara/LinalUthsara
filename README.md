@@ -229,19 +229,19 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <!--My Current Focus-->
 
 <div>
-  <!--Animation-->
-  <div align="left">
+    <!--Animation-->
+  <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./animation_dark.gif">
       <source media="(prefers-color-scheme: light)" srcset="./animation_light.gif">
-      <img align="center" style="width: 38%; height: auto;" alt="Animation" src="./animation_light.jpg">
+      <img align="left" style="width: 38%; height: auto;" alt="Animation" src="./animation_light.jpg">
     </picture>
   </div>
   <!--My Current Focus-->
   <div align="right">
     <h3 align="center">My Current Focus</h3>
-    <div align="justify">
-      <ul>
+    <div>
+      <ul align="left">
         <li>Deep-diving into JavaScript and React.js - exploring core principles, best practices and modern patterns</li>
         <li>Developing a Java Spring Boot backend for a customer-focused project</li>
         <li>Designing & coding a website as part of my React self-learning journey</li>
