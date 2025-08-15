@@ -282,6 +282,16 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <!--GitHub Stats-->
 
+<div align="center">
+  <picture>
+      <source srcset="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=algolia"media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=flat"media="(prefers-color-scheme: light)"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=flat" alt="Linal Trophies" />
+    </picture>
+</div>
+
+---
+
 <div>
   <div>
     <picture>
@@ -314,16 +324,6 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
       <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=linaluthsara&theme=algolia&bg_color=0D1117&hide_border=true&custom_title=Linal's%20Contribution%20Graph&area=true&area_color=2e82ff&title_color=00aeff&color=ffffff&line=2e82ff&point=00aeff"media="(prefers-color-scheme: dark)"/>
       <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=linaluthsara&theme=vue&bg_color=ffffff&hide_border=true&custom_title=Linal's%20Contribution%20Graph&area=true&area_color=41b883&title_color=41b883&line=41b883&point=7bd1aa"media="(prefers-color-scheme: light)"/>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=linaluthsara&theme=vue&bg_color=ffffff&hide_border=true&custom_title=Linal's%20Contribution%20Graph&area=true&area_color=41b883&title_color=41b883&line=41b883&point=7bd1aa" width="800" alt="Linal Contribution-graph" title="Contribution Graph" />
-    </picture>
-</div>
-
----
-
-<div align="center">
-  <picture>
-      <source srcset="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=algolia"media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=flat"media="(prefers-color-scheme: light)"/>
-      <img src="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=flat" alt="Linal Trophies" />
     </picture>
 </div>
 
