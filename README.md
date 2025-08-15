@@ -202,6 +202,11 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ---
 
+<!--Projects Title Bar-->
+<h3 align= "center">LATEST PROJECTS & CONTRIBUTIONS</h3>
+
+##
+
 <!--Latest Projects-->
 <a href="https://github.com/LinalUthsara/Synexis_Backend">
   <picture>
