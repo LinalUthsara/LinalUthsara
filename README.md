@@ -310,8 +310,9 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <h4 align="center">Feel free to check out my repositories and contribute</h4> 
 <h4 align="center">If you find something useful, don't hesitate to fork, or open an issue if you have suggestions and don't forget to star ⭐ if you find anything interesting!</h4>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer&gradient=41b883,2e82ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5468FF&height=65&section=footer"/>
 </p>
+
 
 
 
