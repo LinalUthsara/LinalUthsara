@@ -226,6 +226,23 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ---
 
+<!--My Current Focus-->
+
+<div>
+  <!--Animation-->
+  <div align="left">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./animation_dark.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./animation_light.gif">
+      <img align="center" alt="Animation" src="./animation_light.jpg">
+    </picture>
+  </div>
+  <!--My Current Focus-->
+  <div></div>
+</div>
+
+---
+
 <!--GitHub Stats-->
 
 <div>
