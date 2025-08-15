@@ -311,8 +311,8 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <h4 align="center">If you find something useful, don't hesitate to fork, or open an issue if you have suggestions and don't forget to star ⭐ if you find anything interesting!</h4>
 
 <picture>
-  <source srcset="[https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=algolia](https://capsule-render.vercel.app/api?type=waving&color=2e82ff&height=65&section=footer)"media="(prefers-color-scheme: dark)"/>
-  <source srcset="[https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=flat](https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer)"media="(prefers-color-scheme: light)"/>
+  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=2e82ff&height=65&section=footer"media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer"media="(prefers-color-scheme: light)"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer"/>
 </picture>
 
