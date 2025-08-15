@@ -256,6 +256,31 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ---
 
 <!--GitHub Stats-->
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/linaluthsara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.linaluthsara.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.hackerrank.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
+<!--GitHub Stats-->
 
 <div>
   <div>
@@ -315,6 +340,13 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   <source srcset="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer"media="(prefers-color-scheme: light)"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer"/>
 </picture>
+<p align="left">
+<a href="https://linkedin.com/in/linaluthsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linaluthsara" height="30" width="40" /></a>
+<a href="https://fb.com/linaluthsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="linaluthsara" height="30" width="40" /></a>
+<a href="https://instagram.com/linaluthsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linaluthsara" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/linaluthsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="linaluthsara" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/linaluthsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="linaluthsara" height="30" width="40" /></a>
+</p>
 
 
 
