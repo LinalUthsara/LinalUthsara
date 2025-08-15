@@ -309,10 +309,12 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <h3 align="center">Thanks for visiting my GitHub profile</h3>
 <h4 align="center">Feel free to check out my repositories and contribute</h4> 
 <h4 align="center">If you find something useful, don't hesitate to fork, or open an issue if you have suggestions and don't forget to star ⭐ if you find anything interesting!</h4>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5468FF&height=65&section=footer"/>
-</p>
 
+<p>
+  <source srcset="[https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=algolia](https://capsule-render.vercel.app/api?type=waving&color=2e82ff&height=65&section=footer)"media="(prefers-color-scheme: dark)"/>
+  <source srcset="[https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=flat](https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer)"media="(prefers-color-scheme: light)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer"/>
+</p>
 
 
 
