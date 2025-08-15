@@ -18,7 +18,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   <!--Avatar-->
   <div>
     <picture>
-      <img align="left" style="width: 50%; height: auto;" alt="Avatar" src="./avatar.gif">
+      <img align="left" style="width: 38%; height: auto;" alt="Avatar" src="./avatar.gif">
     </picture>
   </div>
   <!--About Me-->
