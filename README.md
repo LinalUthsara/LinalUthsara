@@ -3,31 +3,45 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ---
 
-<!--Latest Projects-->
-<a href="https://github.com/LinalUthsara/Synexis_Backend">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=default">
-    <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=default">
-  </picture>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/VinilaDeveen/Lumina">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=default">
-    <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=default">
-  </picture>
-</a>
-
----
-
 <!--Name Tag-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./name_dark.jpg">
   <source media="(prefers-color-scheme: light)" srcset="./name_light.jpg">
   <img align="center" alt="Name_LINAL" src="./name_light.jpg">
 </picture>
+
+---
+
+<!--Avatar & About Me-->
+
+<div>
+  <!--Avatar-->
+  <div>
+    <picture>
+      <img align="left" style="width: 38%; height: auto;" alt="Avatar" src="./avatar.gif">
+    </picture>
+  </div>
+  <!--About Me-->
+  <div align="right">
+    <h3 align="center">About Me</h3>
+    <div align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Java%20Enthusiast;Code%20With%20Style;Problem%20Solver;Customer%20Oriented;Modern%20Aesthetics;Continuous%20Learner;Open%20To%20Feedback&font=Fira%20Code&center=true&width=500&height=50&color=1F6FEB&vCenter=true&size=22&pause=800">
+    </div>
+    <div align="center">
+      <a href="https://github.com/LinalUthsara?tab=followers">
+      <img alt="Followers" title="Followers on Github" src="https://custom-icon-badges.demolab.com/github/followers/LinalUthsara?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/LinalUthsara?tab=repositories&sort=stargazers">
+      <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LinalUthsara?color=FFB84D&style=flat&labelColor=FFA116&logo=star"/>
+    </a>
+    <img alt="Profile Views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=LinalUthsara&label=👁%20Profile%20views&color=0e75b6&style=flat"  />
+    </div>
+    <div>
+      <h3 align="justify">Aspiring software engineer pursuing a BSc (Hons) in Software Engineering, with a solid foundation in computer science and strong proficiency in multiple modern programming languages. Skilled in software development methodologies, problem-solving, and analytical thinking, with extensive hands-on experience in academic and personal projects.
+    </h3>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -194,36 +208,22 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ---
 
-<!--Avatar & About Me-->
-
-<div>
-  <!--Avatar-->
-  <div>
-    <picture>
-      <img align="left" style="width: 38%; height: auto;" alt="Avatar" src="./avatar.gif">
-    </picture>
-  </div>
-  <!--About Me-->
-  <div align="right">
-    <h3 align="center">About Me</h3>
-    <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Java%20Enthusiast;Code%20With%20Style;Problem%20Solver;Customer%20Oriented;Modern%20Aesthetics;Continuous%20Learner;Open%20To%20Feedback&font=Fira%20Code&center=true&width=500&height=50&color=1F6FEB&vCenter=true&size=22&pause=800">
-    </div>
-    <div align="center">
-      <a href="https://github.com/LinalUthsara?tab=followers">
-      <img alt="Followers" title="Followers on Github" src="https://custom-icon-badges.demolab.com/github/followers/LinalUthsara?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/>
-    </a>
-    <a href="https://github.com/LinalUthsara?tab=repositories&sort=stargazers">
-      <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LinalUthsara?color=FFB84D&style=flat&labelColor=FFA116&logo=star"/>
-    </a>
-    <img alt="Profile Views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=LinalUthsara&label=👁%20Profile%20views&color=0e75b6&style=flat"  />
-    </div>
-    <div>
-      <h3 align="justify">Aspiring software engineer pursuing a BSc (Hons) in Software Engineering, with a solid foundation in computer science and strong proficiency in multiple modern programming languages. Skilled in software development methodologies, problem-solving, and analytical thinking, with extensive hands-on experience in academic and personal projects.
-    </h3>
-    </div>
-  </div>
-</div>
+<!--Latest Projects-->
+<a href="https://github.com/LinalUthsara/Synexis_Backend">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=default">
+    <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=default">
+  </picture>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/VinilaDeveen/Lumina">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=default">
+    <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=default">
+  </picture>
+</a>
 
 ---
 
@@ -269,8 +269,8 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <div align="center">
   <picture>
       <source srcset="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=algolia"media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=vue"media="(prefers-color-scheme: light)"/>
-      <img src="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=vue" alt="Linal Trophies" />
+      <source srcset="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=vue&color=41b883"media="(prefers-color-scheme: light)"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=vue&color=41b883" alt="Linal Trophies" />
     </picture>
 </div>
 
