@@ -269,8 +269,8 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <div align="center">
   <picture>
       <source srcset="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=algolia"media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=vue&color=41b883"media="(prefers-color-scheme: light)"/>
-      <img src="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=vue&color=41b883" alt="Linal Trophies" />
+      <source srcset="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=matrix&"media="(prefers-color-scheme: light)"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=linaluthsara&theme=matrix&" alt="Linal Trophies" />
     </picture>
 </div>
 
