@@ -247,9 +247,10 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
         <li>Designing & coding a website as part of my React self-learning journey</li><br>
       </ul>
     </div>
+    <!--Quote of the Day-->
     <h3 align="center">Quote of the Day</h3>
-    <h4 align="center">"Programs must be written for people to read, and only incidentally for machines to execute."</h4>
-    <h4 align="center">-Harold Abelson-</h4>
+    <h4 align="center">"First, solve the problem. Then, write the code."</h4>
+    <h4 align="center">-John Johnson-</h4>
   </div>
 </div>
 
