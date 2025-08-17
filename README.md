@@ -249,8 +249,8 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     </div>
     <!--Quote of the Day-->
     <h3 align="center">Quote of the Day</h3>
-    <h4 align="center">"First, solve the problem. Then, write the code."</h4>
-    <h4 align="center">-John Johnson-</h4>
+    <h4 align="center">"Talk is cheap. Show me the code."</h4>
+    <h4 align="center">-Linus Torvalds</h4>
   </div>
 </div>
 
