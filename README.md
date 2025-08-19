@@ -29,11 +29,13 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     </div>
     <div align="center">
       <a href="https://github.com/LinalUthsara?tab=followers">
-      <img alt="Followers" title="Followers on Github" src="https://custom-icon-badges.demolab.com/github/followers/LinalUthsara?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/>
-    </a>
-    <a href="https://github.com/LinalUthsara?tab=repositories&sort=stargazers">
-      <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LinalUthsara?color=FFB84D&style=flat&labelColor=FFA116&logo=star"/>
-    </a>
+        <img alt="Followers" title="GitHub Followers" 
+          src="https://img.shields.io/github/followers/LinalUthsara?label=Followers&style=flat&color=236ad3&labelColor=1155ba&logo=github" />
+      </a>
+      <a href="https://github.com/LinalUthsara?tab=repositories&sort=stargazers">
+        <img alt="Stars" title="Total Stars" 
+          src="https://img.shields.io/github/stars/LinalUthsara?label=Stars&color=FFB84D&style=flat&labelColor=FFA116&logo=star" />
+      </a>
     <img alt="Profile Views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=LinalUthsara&label=👁%20Profile%20views&color=0e75b6&style=flat"  />
     </div>
     <div>
