@@ -251,8 +251,8 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     </div>
     <!--Quote of the Day-->
     <h3 align="center">Quote of the Day</h3>
-    <h4 align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</h4>
-    <h4 align="center">-Martin Fowler-</h4>
+    <h4 align="center">"Before software can be reusable it first has to be usable."</h4>
+    <h4 align="center">-Ralph Johnson-</h4>
   </div>
 </div>
 
