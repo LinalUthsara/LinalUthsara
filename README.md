@@ -251,8 +251,8 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     </div>
     <!--Quote of the Day-->
     <h3 align="center">Quote of the Day</h3>
-    <h4 align="center">"Before software can be reusable it first has to be usable."</h4>
-    <h4 align="center">-Ralph Johnson-</h4>
+    <h4 align="center">"Programs are meant to be read by humans and only incidentally for computers to execute."</h4>
+    <h4 align="center">-Donald Knuth-</h4>
   </div>
 </div>
 
