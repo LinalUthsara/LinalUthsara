@@ -251,8 +251,8 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     </div>
     <!--Quote of the Day-->
     <h3 align="center">Quote of the Day</h3>
-    <h4 align="center">"Programs are meant to be read by humans and only incidentally for computers to execute."</h4>
-    <h4 align="center">-Donald Knuth-</h4>
+    <h4 align="center">"Deleted code is debugged code."</h4>
+    <h4 align="center">-Jeff Sickel-</h4>
   </div>
 </div>
 
