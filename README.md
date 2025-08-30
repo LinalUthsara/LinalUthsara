@@ -251,8 +251,8 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     </div>
     <!--Quote of the Day-->
     <h3 align="center">Quote of the Day</h3>
-    <h4 align="center">"Fix the cause, not the symptom."</h4>
-    <h4 align="center">-Steve Maguire-</h4>
+    <h4 align="center">"Controlling complexity is the essence of computer programming."</h4>
+    <h4 align="center">-Brian Kernighan-</h4>
   </div>
 </div>
 
