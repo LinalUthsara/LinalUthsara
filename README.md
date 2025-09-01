@@ -251,8 +251,8 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     </div>
     <!--Quote of the Day-->
     <h3 align="center">Quote of the Day</h3>
-    <h4 align="center">"The most effective debugging tool is still careful thought, coupled with judiciously placed print statements."</h4>
-    <h4 align="center">-Brian Kernighan-</h4>
+    <h4 align="center">"Programming isn’t about what you know; it’s about what you can figure out."</h4>
+    <h4 align="center">-Chris Pine-</h4>
   </div>
 </div>
 
