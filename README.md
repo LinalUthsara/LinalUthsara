@@ -251,8 +251,8 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     </div>
     <!--Quote of the Day-->
     <h3 align="center">Quote of the Day</h3>
-    <h4 align="center">"Programming isn’t about what you know; it’s about what you can figure out."</h4>
-    <h4 align="center">-Chris Pine-</h4>
+    <h4 align="center">"The function of good software is to make the complex appear to be simple."</h4>
+    <h4 align="center">-Grady Booch-</h4>
   </div>
 </div>
 
