@@ -225,6 +225,14 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=default">
   </picture>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/VinilaDeveen/Lumina">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=default">
+    <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=IntraLink&theme=default">
+  </picture>
+</a>
 
 ---
 
