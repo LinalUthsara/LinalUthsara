@@ -241,6 +241,7 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Thrive&theme=default">
   </picture>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
