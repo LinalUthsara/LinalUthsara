@@ -205,43 +205,53 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ---
 
 <!--Projects Title Bar-->
-<h3 align= "center">LATEST PROJECTS & CONTRIBUTIONS</h3>
+<h3 align="center">LATEST PROJECTS & CONTRIBUTIONS</h3>
 
-##
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LinalUthsara/Synexis_Backend">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=default">
+          <img alt="Synexis Backend" src="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=default">
+        </picture>
+      </a>
+    </td>
 
-<!--Latest Projects-->
-<a href="https://github.com/LinalUthsara/Synexis_Backend">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=default">
-    <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Synexis_Backend&theme=default">
-  </picture>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/VinilaDeveen/Lumina">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=default">
-    <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=default">
-  </picture>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/LinalUthsara/IntraLink-Documentation">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=IntraLink-Documentation&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=IntraLink-Documentation&theme=default">
-    <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=IntraLink-Documentation&theme=default">
-  </picture>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="[https://github.com/LinalUthsara/Thrive">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Thrive&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Thrive&theme=default">
-    <img alt="Synexis Backend Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Thrive&theme=default">
-  </picture>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <td align="center">
+      <a href="https://github.com/VinilaDeveen/Lumina">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=default">
+          <img alt="Lumina" src="https://github-readme-stats.vercel.app/api/pin/?username=VinilaDeveen&repo=Lumina&theme=default">
+        </picture>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LinalUthsara/IntraLink-Documentation">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=IntraLink-Documentation&theme=dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=IntraLink-Documentation&theme=default">
+          <img alt="IntraLink Documentation" src="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=IntraLink-Documentation&theme=default">
+        </picture>
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/LinalUthsara/Thrive">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Thrive&theme=dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Thrive&theme=default">
+          <img alt="THRIVE" src="https://github-readme-stats.vercel.app/api/pin/?username=LinalUthsara&repo=Thrive&theme=default">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
