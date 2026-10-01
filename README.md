@@ -218,7 +218,6 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
         </picture>
       </a>
     </td>
-
     <td align="center">
       <a href="https://github.com/VinilaDeveen/Lumina">
         <picture>
@@ -240,7 +239,6 @@ Colombo, Sri Lanka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
         </picture>
       </a>
     </td>
-
     <td align="center">
       <a href="https://github.com/LinalUthsara/Thrive">
         <picture>
